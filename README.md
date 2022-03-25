@@ -1,3 +1,6 @@
 # cruise control for car
-this project involves control problems related to  various dynamic systems  
-![FIlLlOb](https://user-images.githubusercontent.com/92177410/160153873-2f813943-84d1-450e-be84-30367da8858e.png)
+## This project involves control problems related car's velocity
+
+
+<img src="https://user-images.githubusercontent.com/92177410/160154176-ba6324f2-1548-4d1d-975f-b0ba487fb28b.png" width="400" height="200"> 
+  
