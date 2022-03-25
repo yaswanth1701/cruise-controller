@@ -1,4 +1,4 @@
-# Cruise control for car
+# Cruise controller for car
 ## This project involves control problems related car's velocity
 
 
