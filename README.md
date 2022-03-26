@@ -56,6 +56,8 @@ after discretiaing we get new eqautions:
   **proportional, integral and derivate gain:**
   
   derivate gain reduces the overshoot and for some value velocity smoothy converges to desired velocity 
+  
+  - **Here rise time = 10 second which is time taken to reach 90% of desired value, shown by dotted line(....)**
  
  
 <img width="282" alt="Screenshot 2022-03-21 230711" src="https://user-images.githubusercontent.com/92177410/160253626-da6ce142-e8f5-472d-9a19-c6f5bf153e5c.png">
