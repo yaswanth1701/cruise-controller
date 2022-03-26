@@ -67,4 +67,4 @@ after discretiaing we get new eqautions:
 ## Reference:
 
 
-### all dynamics are provided in pdf which is attached above
+##### - all dynamics are provided in pdf which is attached above
