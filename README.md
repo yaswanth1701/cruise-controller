@@ -34,7 +34,7 @@ after discretiaing we get new eqautions:
  ### Results:
  
   
- #### single desired velocity:
+ ### single desired velocity:
  ##### desired or reference velocity = 60 km/hr
  ##### only proportional gain Kp:
  only Kp value does not make car's velocity reach its desired velocity
@@ -56,12 +56,15 @@ after discretiaing we get new eqautions:
  
 <img width="282" alt="Screenshot 2022-03-21 230711" src="https://user-images.githubusercontent.com/92177410/160253626-da6ce142-e8f5-472d-9a19-c6f5bf153e5c.png">
 
-#### multiple desired velocity:
+### Multiple desired velocity:
 ##### desired velocity is 60 km/hr for first 30 seconds and then it changes to 100 km/hr
 
 
 
 
 <img width="294" alt="variable desired velocity" src="https://user-images.githubusercontent.com/92177410/160253895-8adc3123-6ccb-4e43-8e81-1e7eaadef8ca.png">
+
 ## Reference:
-### all dynamics are provided in pdf which attached above
+
+
+### all dynamics are provided in pdf which is attached above
