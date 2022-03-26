@@ -35,7 +35,9 @@ after discretiaing we get new eqautions:
  
   
  ### single desired velocity:
- **desired or reference velocity = 60 km/hr**
+
+**desired or reference velocity = 60 km/hr**
+
 **only proportional gain Kp:**
  only Kp value does not make car's velocity reach its desired velocity
  
@@ -45,18 +47,21 @@ after discretiaing we get new eqautions:
  
  
 **proportional and integral gain:**
+ 
  integral gain makes velocity reach desired velocity but overshoot.
  
 <img width="311" alt="kd=0" src="https://user-images.githubusercontent.com/92177410/160253519-963acd29-1cfa-4e9c-90d4-d1da9b0b4990.png">
   
   
   **proportional, integral and derivate gain:**
+  
   derivate gain reduces the overshoot and for some value velocity smoothy converges to desired velocity 
  
  
 <img width="282" alt="Screenshot 2022-03-21 230711" src="https://user-images.githubusercontent.com/92177410/160253626-da6ce142-e8f5-472d-9a19-c6f5bf153e5c.png">
 
 ### Multiple desired velocity:
+
 **desired velocity is 60 km/hr for first 30 seconds and then it changes to 100 km/hr**
 
 
